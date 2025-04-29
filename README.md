@@ -24,6 +24,65 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+```
+hi
+```
+
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+```
+hi
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
