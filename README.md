@@ -24,6 +24,8 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+### Developed by : Shanmuga Raj.K
+### Reg No : 212223040192
 ```
 # FEATURE SCALING
 import pandas as pd
