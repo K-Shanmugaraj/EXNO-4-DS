@@ -322,4 +322,4 @@ rfe.fit(X, y)
 
 
 # RESULT:
-       Thus, Feature selection and Feature scaling has been used on thegiven dataset
+Thus, Feature selection and Feature scaling has been used on thegiven dataset
